@@ -155,6 +155,7 @@ Run the startu.sh command
 sh startu.sh
 ```
 
+You can uncomment line 24 and comment line 21 to start Ubuntu in a graphics environment. Ensure that you have installed termux-x11
 
 
 
